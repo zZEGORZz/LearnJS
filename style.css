@@ -1,0 +1,13 @@
+html body{
+    background: rgb(255, 255, 241);
+}
+
+img{
+    align-items: center;
+    width: 30%;
+}
+
+div{
+    display: flex;
+    justify-content: center;
+}
