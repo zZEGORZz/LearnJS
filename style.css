@@ -1,13 +1,15 @@
-html body{
-    background: rgb(255, 255, 241);
-}
-
-img{
-    align-items: center;
-    width: 30%;
-}
-
 div{
     display: flex;
     justify-content: center;
+    align-items: center;
+    height: 700px;
+    width: 100%;
+    font-family: 'Rubik Mono One', sans-serif;
+    color: #ff0062;
+    cursor: pointer;
+    text-shadow: 2px 2px 3px rgb(251, 255, 0), -2px -2px 3px rgb(255, 174, 0);
+    -webkit-text-stroke: 1px #ff00aa;
+    -webkit-text-fill-color: transparent;
+    letter-spacing: 5px;
+    font-size: 100px;
 }
